@@ -1,2 +1,2 @@
 # Alura-Trello
-Atividades projeto Dev-up TOTVS
+Atividades Alura-Trello - Projeto Dev-up TOTVS
