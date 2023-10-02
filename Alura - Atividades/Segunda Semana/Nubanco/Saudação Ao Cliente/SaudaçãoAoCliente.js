@@ -1,0 +1,2 @@
+let nome = prompt('Olá! Seja bem vindo(a) ao Nubanco!\nPara prosseguirmos com seu atendimento, por favor, abaixo\nDigite seu nome: ');
+alert(`Olá ${nome}. Tudo Bem? Iremos te encaminhar para um de nossos atendentes!`);
